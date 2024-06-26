@@ -15,7 +15,7 @@ REST API, Postman, Redux.js, Swagger, Docker
 - Testing: Selenium, Jest, Vitest, Playwright
 - Metodologías: Scrum
 
-# More about me
+### More about me
 Since March 2021, I've been freelancing, honing my skills in HTML, CSS, JavaScript, and various modern frameworks and libraries. I pride myself on delivering pixel-perfect websites and providing top-notch consultancy and technical support.
 
 I'm currently enhancing my knowledge in software development at IFTS 18 and delving into economics at the Universadad de Buenos Aires (UBA). My academic pursuits complement my professional experience, allowing me to view projects through a multifaceted lens.
